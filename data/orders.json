@@ -1,0 +1,30 @@
+[
+    {
+        "order_id": "12345",
+        "customer": "Rahul",
+        "product": "iPhone 16",
+        "status": "Shipped",
+        "delivery_date": "2026-07-30"
+    },
+    {
+        "order_id": "54321",
+        "customer": "Aman",
+        "product": "Samsung S25",
+        "status": "Processing",
+        "delivery_date": "2026-08-02"
+    },
+    {
+        "order_id": "98765",
+        "customer": "Neha",
+        "product": "MacBook Air M4",
+        "status": "Delivered",
+        "delivery_date": "2026-07-15"
+    },
+    {
+        "order_id": "11111",
+        "customer": "Priya",
+        "product": "Sony Headphones",
+        "status": "Cancelled",
+        "delivery_date": null
+    }
+]

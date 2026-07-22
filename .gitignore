@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Windsurf
+.windsurf/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+[
+    {
+        "question": "How long does shipping take?",
+        "answer": "Shipping usually takes 3-5 business days."
+    },
+    {
+        "question": "How long is the refund policy?",
+        "answer": "Refunds are accepted within 7 days of delivery."
+    },
+    {
+        "question": "How can I contact support?",
+        "answer": "You can contact us at support@company.com."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we ship internationally."
+    }
+]
